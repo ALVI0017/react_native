@@ -1,0 +1,12 @@
+install node
+npm install --global expo-cli
+expo init
+name the project
+cd to that projectnpm 
+
+
+npm expo web was not working creating problem so to resolve that 
+ deleted the node module 
+install yarn 
+upgrade expo 
+expo start --web or npx expo start
